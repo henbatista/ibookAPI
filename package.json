@@ -1,6 +1,6 @@
 {
   "name": "ibook-api",
-  "author": "Cataline",
+  "author": "Henrique Batista",
   "version": "1.0.0",
   "description": "Fake api for Ibook Project",
   "main": "server.js",
